@@ -1,0 +1,14 @@
+#-----------------------------------------------------------
+# Vivado v2023.1 (64-bit)
+# SW Build 3865809 on Sun May  7 15:04:56 MDT 2023
+# IP Build 3864474 on Sun May  7 20:36:21 MDT 2023
+# SharedData Build 3865790 on Sun May 07 13:33:03 MDT 2023
+# Start of session at: Wed Apr 22 12:17:56 2026
+# Process ID: 1303474
+# Current directory: /home/ugrads/k/keyanmreza/ecen248/lab11/lab11.runs/impl_1
+# Command line: vivado -log tlc_controller_ver1.vdi -applog -product Vivado -messageDb vivado.pb -mode batch -source tlc_controller_ver1.tcl -notrace
+# Log file: /home/ugrads/k/keyanmreza/ecen248/lab11/lab11.runs/impl_1/tlc_controller_ver1.vdi
+# Journal file: /home/ugrads/k/keyanmreza/ecen248/lab11/lab11.runs/impl_1/vivado.jou
+# Running On: zach-333-em4-04.engr.tamu.edu, OS: Linux, CPU Frequency: 1510.423 MHz, CPU Physical cores: 16, Host memory: 16439 MB
+#-----------------------------------------------------------
+source tlc_controller_ver1.tcl -notrace
